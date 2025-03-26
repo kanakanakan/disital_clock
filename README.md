@@ -1,5 +1,5 @@
 # デジタル時計（JavaScript_basic授業課題作品）
-
+<img src="./image/scleenshot.png" alt="デジタル時計">
 
 ## ▼概要
 この作品は、後期の「JavaScript_basic」授業の課題として制作したデジタル時計です。  
